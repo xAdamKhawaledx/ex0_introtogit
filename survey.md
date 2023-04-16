@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: cat
+Favorite food: toot
+Favorite musician/band: jawdi
+Favorite movie: interstellar
+Requested grade in the course: 200
